@@ -1,6 +1,6 @@
 # 💱 Currency Converter (Fetch API Project)
 
-A simple and beginner-friendly **Currency Converter** web application built using  
+A Simple And Beginner-Friendly **Currency Converter** Web Application Built Using  
 **HTML, CSS, and JavaScript**.  
 This project uses the **Fetch API** to fetch real-time currency exchange rates.
 
