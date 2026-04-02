@@ -7,7 +7,7 @@ This project uses the **Fetch API** to fetch real-time currency exchange rates.
 ---
 
 ## 🚀 Features
-- Convert currency from one country to another
+- Convert Currency from one country to another
 - Uses Fetch API for live exchange rates
 - Country flags update automatically
 - Clean and simple UI
